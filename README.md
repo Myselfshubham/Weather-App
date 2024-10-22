@@ -17,8 +17,6 @@ A simple weather application that provides real-time weather information for any
 Check out the live demo of the project here:
 [Weather App Live Demo](https://myselfshubham.github.io/Weather-App/)
 
-![Weather App Screenshot](https://myselfshubham.github.io/Weather-App/preview.png)
-
 ## How to Use
 1. Enter the name of the city for which you want to check the weather.
 2. Hit the "Search" button or press enter.
